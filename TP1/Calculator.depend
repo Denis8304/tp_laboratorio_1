@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1587166854 source:d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaCalculator.h"
+
+1587160681 d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculator\libreriacalculator.h
+	<stdlib.h>
+
+1587166197 source:d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculator\libreriacalculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1587166197 source:d:\utn\programacion y laboratorio\projectos codeblocks\tps\tp1\calculator\libreriacalculator.c
+	<stdio.h>
+	<stdlib.h>
+
+1587166854 source:d:\utn\programacion y laboratorio\projectos codeblocks\tps\tp1\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaCalculator.h"
+
+1587160681 d:\utn\programacion y laboratorio\projectos codeblocks\tps\tp1\calculator\libreriacalculator.h
+	<stdlib.h>
+
